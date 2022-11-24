@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Sample3"
 include ':app'
+include ':helpers'
+include ':simple-api-module'
